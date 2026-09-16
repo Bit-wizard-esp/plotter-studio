@@ -1,0 +1,5 @@
+PySide6>=6.6
+numpy>=1.26
+opencv-python>=4.8
+Pillow>=10.0
+ezdxf>=1.1
